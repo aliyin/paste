@@ -1,1 +1,1 @@
-To host a paste required for testing.
+To host files required for testing.
